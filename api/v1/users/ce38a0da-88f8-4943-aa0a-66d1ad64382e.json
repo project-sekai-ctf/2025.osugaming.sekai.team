@@ -1,0 +1,1 @@
+{"kind":"goodUserData","message":"The user data was successfully retrieved.","data":{"name":"L1rics","division":"open","score":112,"globalPlace":619,"divisionPlace":619,"solves":[{"category":"pwn","name":"username-checker","points":112,"solves":208,"id":"pwn_username-checker","createdAt":1761447859596}]}}
